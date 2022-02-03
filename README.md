@@ -4,7 +4,7 @@
 
 
 <h4 align="center"> 
-Refactor com Spring do projeto Gerenciador-Colab em outro repositório!
+Refactor do projeto Gerenciador-Colab em outro repositório!
 
 	🚧  Ainda em evolução...  🚧
 </h4>
