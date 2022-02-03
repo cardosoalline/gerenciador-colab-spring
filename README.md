@@ -1,5 +1,5 @@
 
-<img src="https://img.shields.io/static/v1?label=Gerenciador-Colaboradores&message=Java-Spring-OO&color=7159c1&style=for-the-badge&logo=ghost"/>
+<img src="https://img.shields.io/static/v1?label=Gerenciador-Colaboradores&message=Java-Spring&color=7159c1&style=for-the-badge&logo=ghost"/>
 
 
 
